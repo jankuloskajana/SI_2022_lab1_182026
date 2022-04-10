@@ -1,5 +1,5 @@
 tetratka x 1 
-moliv x 2 
+moliv x 1 
 mousepad x 1 
 highlighter x 3 
 penkalo x 3 
