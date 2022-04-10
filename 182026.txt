@@ -1,0 +1,89 @@
+$ git log
+commit f7148e9df2e00db8bbbce20e66d96fb45d2146dd (HEAD -> master, branch2, branch1)
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:14:06 2022 +0200
+
+    Add quantities to the items
+
+commit 0d9d2f5150116a194ad446eabadd552d6adb46a2
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:11:36 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 186ed05a19dd04c729cfc12f80897ec5c4d5ec3b (origin/master, origin/HEAD)
+Author: Јана Јанкулоска <101889143+jankuloskajana@users.noreply.github.com>
+Date:   Sun Apr 10 14:07:17 2022 +0200
+
+    Update README.md
+
+commit 9199f42ee60a95f9abcda33168e6af8dfc4ac59d
+Author: Јана Јанкулоска <101889143+jankuloskajana@users.noreply.github.com>
+Date:   Sun Apr 10 14:06:52 2022 +0200
+
+    Initial commit
+
+
+$ git log
+commit 3c07369ddb31a99f27d98a63c6a018adb78d5cb2 (HEAD -> branch2)
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:26:15 2022 +0200
+
+    Modify item #4
+
+commit f7148e9df2e00db8bbbce20e66d96fb45d2146dd (origin/branch2)
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:14:06 2022 +0200
+
+    Add quantities to the items
+
+commit 0d9d2f5150116a194ad446eabadd552d6adb46a2
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:11:36 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 186ed05a19dd04c729cfc12f80897ec5c4d5ec3b
+Author: Јана Јанкулоска <101889143+jankuloskajana@users.noreply.github.com>
+Date:   Sun Apr 10 14:07:17 2022 +0200
+
+    Update README.md
+
+commit 9199f42ee60a95f9abcda33168e6af8dfc4ac59d
+Author: Јана Јанкулоска <101889143+jankuloskajana@users.noreply.github.com>
+Date:   Sun Apr 10 14:06:52 2022 +0200
+
+    Initial commit
+
+
+$ git log
+commit ecaafe3b7472bdd3be96542ce4fcde80d41442fd (HEAD -> branch2)
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:42:06 2022 +0200
+
+    Modify item #4 and add item #6
+
+commit f7148e9df2e00db8bbbce20e66d96fb45d2146dd (origin/branch2)
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:14:06 2022 +0200
+
+    Add quantities to the items
+
+commit 0d9d2f5150116a194ad446eabadd552d6adb46a2
+Author: Jana Jankuloska <j.jankuloska13@gmail.com>
+Date:   Sun Apr 10 14:11:36 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 186ed05a19dd04c729cfc12f80897ec5c4d5ec3b
+Author: Јана Јанкулоска <101889143+jankuloskajana@users.noreply.github.com>
+Date:   Sun Apr 10 14:07:17 2022 +0200
+
+    Update README.md
+
+commit 9199f42ee60a95f9abcda33168e6af8dfc4ac59d
+Author: Јана Јанкулоска <101889143+jankuloskajana@users.noreply.github.com>
+Date:   Sun Apr 10 14:06:52 2022 +0200
+
+    Initial commit
+
